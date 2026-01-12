@@ -269,7 +269,7 @@ Reverse engineering for interoperability is legal in most jurisdictions:
 
 - **General questions:** [Open a Discussion](../../discussions)
 - **Bug reports:** [File an Issue](../../issues)
-- **Security issues:** Email [your.email@example.com]
+- **Security issues:** Email [144460619+pravinth24@users.noreply.github.com]
 - **Want to chat?** [Discord/Slack link] (coming soon)
 
 ---

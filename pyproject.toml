@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "Parse proprietary lab instrument data files into standard, usable formats"
 readme = "README.md"
 authors = [
-    {name = "Your Name", email = "your.email@example.com"}
+    {name = "Pravinth", email = "144460619+pravinth24@users.noreply.github.com"}
 ]
 license = {text = "MIT"}
 classifiers = [

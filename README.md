@@ -248,7 +248,7 @@ If you use Universal Lab Parser in your research, please cite:
 ```bibtex
 @software{universal_lab_parser,
   title = {Universal Lab Parser: Open-source toolkit for lab instrument data interoperability},
-  author = {[Your Name]},
+  author = {Pravinth},
   year = {2025},
   url = {https://github.com/pravinth24/universal-lab-parser}
 }
