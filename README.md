@@ -5,6 +5,10 @@
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![GitHub Stars](https://img.shields.io/github/stars/pravinth24/universal-lab-parser?style=social)](https://github.com/pravinth24/universal-lab-parser/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/pravinth24/universal-lab-parser)](https://github.com/pravinth24/universal-lab-parser/issues)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/pravinth24/universal-lab-parser)
 
 ## The Problem
 
