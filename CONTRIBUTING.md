@@ -47,7 +47,7 @@ Don't see your instrument? Let us know!
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/universal-lab-parser.git
+git clone https://github.com/pravinth24/universal-lab-parser.git
 cd universal-lab-parser
 
 # Create virtual environment

@@ -87,7 +87,7 @@ python examples/basic_usage.py
 1. **Update placeholder info:**
    - [ ] Replace "Your Name" in all files with your actual name
    - [ ] Replace "your.email@example.com" with your email
-   - [ ] Replace "yourusername" in URLs with your GitHub username
+   - [ ] Replace "pravinth24" in URLs with your GitHub username
 
 2. **Get sample data files:**
    - [ ] Post on r/biotech asking for Waters .arw files

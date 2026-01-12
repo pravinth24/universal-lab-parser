@@ -56,10 +56,10 @@ all = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/universal-lab-parser"
-Documentation = "https://github.com/yourusername/universal-lab-parser/tree/main/docs"
-Repository = "https://github.com/yourusername/universal-lab-parser"
-"Bug Tracker" = "https://github.com/yourusername/universal-lab-parser/issues"
+Homepage = "https://github.com/pravinth24/universal-lab-parser"
+Documentation = "https://github.com/pravinth24/universal-lab-parser/tree/main/docs"
+Repository = "https://github.com/pravinth24/universal-lab-parser"
+"Bug Tracker" = "https://github.com/pravinth24/universal-lab-parser/issues"
 
 [project.scripts]
 ulp = "universal_lab_parser.cli:main"

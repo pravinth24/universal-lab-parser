@@ -250,7 +250,7 @@ If you use Universal Lab Parser in your research, please cite:
   title = {Universal Lab Parser: Open-source toolkit for lab instrument data interoperability},
   author = {[Your Name]},
   year = {2025},
-  url = {https://github.com/yourusername/universal-lab-parser}
+  url = {https://github.com/pravinth24/universal-lab-parser}
 }
 ```
 
