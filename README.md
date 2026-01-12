@@ -46,7 +46,8 @@ df = lp.read("plate_reader_output.csv")
 ## Quick Start
 
 ```bash
-pip install universal-lab-parser
+# Install directly from GitHub
+pip install git+https://github.com/pravinth24/universal-lab-parser.git
 ```
 
 ### Python API
@@ -221,10 +222,11 @@ df = lp.read("any_file.csv")  # That's it
 ## Installation
 
 ```bash
-pip install universal-lab-parser
+# Install directly from GitHub
+pip install git+https://github.com/pravinth24/universal-lab-parser.git
 ```
 
-### From Source
+### For Development
 
 ```bash
 git clone https://github.com/pravinth24/universal-lab-parser.git
