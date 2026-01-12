@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+.coverage
+.pytest_cache/
+htmlcov/
+.tox/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Distribution / packaging
+.Python
+build/
+dist/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Test data (but keep fixture README)
+tests/fixtures/*.arw
+tests/fixtures/*.raw
+tests/fixtures/*.d
+tests/fixtures/*.ch
+tests/fixtures/*.lcd
+!tests/fixtures/README.md
+
+# Local development
+.env
+.env.local
+scratch/
+temp/

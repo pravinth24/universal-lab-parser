@@ -1,0 +1,16 @@
+-r requirements.txt
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=3.0.0
+
+# Code quality
+black>=22.0.0
+isort>=5.10.0
+flake8>=4.0.0
+mypy>=0.950
+pre-commit>=2.17.0
+
+# Optional formats
+pyarrow>=10.0.0
+lxml>=4.9.0
