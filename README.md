@@ -296,63 +296,9 @@ See [Contributing Guide](CONTRIBUTING.md) for details.
 
 ---
 
-## Star History
-
-If this tool saves you time, please star the repo! ⭐
-
-[![Star History Chart](https://api.star-history.com/svg?repos=pravinth24/universal-lab-parser&type=Date)](https://star-history.com/#pravinth24/universal-lab-parser&Date)
-
----
-
-## Testimonials
-
-> "This saved me 10 hours last week. Incredible tool!" — Lab Manager, MIT
-
-> "Finally, I can parse plate reader data in Python without crying." — PhD Student, Stanford
-
-> "Game changer for our high-throughput screening." — Biotech Company
-
-*Want to share your experience? [Open a discussion!](https://github.com/pravinth24/universal-lab-parser/discussions)*
-
----
-
-## Citation
-
-If you use this in your research, please cite:
-
-```bibtex
-@software{universal_lab_parser,
-  author = {Pravinth},
-  title = {Universal Lab Parser: Parse ANY lab instrument data},
-  year = {2025},
-  url = {https://github.com/pravinth24/universal-lab-parser}
-}
-```
-
----
-
 ## License
 
 MIT License - see [LICENSE](LICENSE) file for details.
-
----
-
-## Acknowledgments
-
-Built with frustration from spending too many Monday mornings in Excel.
-
-Inspired by the research community's need for better data tools.
-
-Special thanks to everyone who shared sample instrument files.
-
----
-
-## Support
-
-- 📧 Email: [your-email]
-- 💬 Discussions: [GitHub Discussions](https://github.com/pravinth24/universal-lab-parser/discussions)
-- 🐛 Bug Reports: [GitHub Issues](https://github.com/pravinth24/universal-lab-parser/issues)
-- ⭐ Star us on GitHub if this helped you!
 
 ---
 
